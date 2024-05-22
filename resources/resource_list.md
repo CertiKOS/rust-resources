@@ -1,0 +1,21 @@
+List of resources + brief description of each:
+
+- Official Rust resources
+    - [rustnomicon](https://doc.rust-lang.org/nomicon/)
+    - [UB](https://doc.rust-lang.org/reference/behavior-considered-undefined.html)
+- Specifications:
+  - [Ferrous Systems](https://github.com/ferrocene/ferrocene)
+  - [Minirust](https://github.com/minirust/minirust)
+- Jung
+  - blogposts
+    - [provenance](https://www.ralfj.de/blog/2022/04/11/provenance-exposed.html)
+    - [provenance 2](https://www.ralfj.de/blog/2020/12/14/provenance.html)
+  - Borrows
+    - [stacked borrows](https://www.ralfj.de/blog/2019/11/18/stacked-borrows-paper.html)
+    - [more](https://www.ralfj.de/blog/2018/08/07/stacked-borrows.html)
+    - [tree borrows](https://www.ralfj.de/blog/2023/06/02/tree-borrows.html)
+    - [tree borrows](https://perso.crans.org/vanille/treebor/)
+    - [tree borrows](https://www.youtube.com/watch?v=zQ76zLXesxA)
+- papers
+  - [oxide](https://arxiv.org/abs/1903.00982)
+  - [krust](https://ieeexplore.ieee.org/abstract/document/8560732)
